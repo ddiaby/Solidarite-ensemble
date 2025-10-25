@@ -2,7 +2,7 @@
   Style général du site
 -------------------------*/
 body {
-    background-color: #f2e0fa; /* couleur de fond bleu clair */
+    background-color: #e9fae0; /* couleur de fond bleu clair */
     color: #080079; /* couleur du texte vert foncé */
     font-family: 'Poppins', sans-serif; /* police du texte */
     margin: 0; /* supprime les marges par défaut du navigateur */
@@ -13,7 +13,7 @@ body {
   Style du header (en-tête)
 -------------------------*/
 header {
-    background-color: #b6954d; /* couleur du header */
+    background-color: #b64da8; /* couleur du header */
     padding: 20px;
     text-align: center; /* centrer le texte */
     color: white; /* texte en blanc */
